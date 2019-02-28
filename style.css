@@ -200,8 +200,8 @@ input[type="submit"]:hover {
     height: auto;
   }
   .portphoto {
-    width: 350px;
-    height: 350px;
+    width: 330px;
+    height: 330px;
     object-fit: scale-down;
     margin-left: auto;
     margin-right: auto;
@@ -220,8 +220,7 @@ input[type="submit"]:hover {
     margin-left: auto;
     margin-right: auto;
   }
-}
-@media screen and (max-width: 640px) {
+
   .header {
     display: block;
     text-align: center;
